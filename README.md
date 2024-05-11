@@ -7,6 +7,8 @@ Built with educational purpose!
 
 ## Demonstration
 
+[](https://github.com/Trollicus/EazDecryptor/assets/40140975/6b135bda-c2cc-4054-a8b0-7cefbf2c2065)
+
 ## Compilation
 
 Restore the nugget package
