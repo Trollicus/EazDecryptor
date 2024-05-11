@@ -22,6 +22,9 @@ dotnet build
 
 ## Special Thanks 
 * [Washi], for the amazing [AsmResolver]
+* [pardeike], for the phenomenal [Harmony]
 
 [Washi]:https://github.com/Washi1337
 [AsmResolver]:https://github.com/Washi1337/AsmResolver
+[pardeike]:https://github.com/pardeike
+[Harmony]:https://github.com/pardeike/Harmony
